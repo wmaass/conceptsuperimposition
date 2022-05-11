@@ -1,5 +1,6 @@
 # ConceptSuperImposition
 
+Be aware that this repository is public
 
 Install all python packages and run notebook
 
